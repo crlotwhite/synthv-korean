@@ -9,6 +9,9 @@ SynthV script to support Korean lyrics.
 Just select the notes you want to convert phonetic to and run the script.
 
 ## Download
+
+[다운로드(Download)](https://github.com/crlotwhite/synthv-korean/releases/download/v0.0.0/synthv-korean.js)
+
 script 폴더에 파일을 복사해 주세요.
 
 Copy the file to the script folder.
