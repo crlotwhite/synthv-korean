@@ -47,14 +47,19 @@ You can try the phonetic interpreter at: [link](https://crlotwhite.github.io/kor
 > the site is Korean (I'm sorry for not supporting English.)
 
 ## Road map
-The phonetic interpreter is about to be implemented, but is expected to take a very long time.
-If the use of NLP is essential, it seems impossible to introduce it.
+음운론 해석기는 완료가 되는 데로 도입하려고 합니다만, 시간이 매우 오래 걸릴 것으로 예상됩니다.
+만약 NLP 사용이 필수라면 도입이 불가능하다고 보면 될 것 같습니다.
+
+가장 가까운 개발 순서는 다음과 같습니다.
+1. 영어 발음 기호 지원
+2. 트랙 명 기반 자동 모드 전환
+3. 중국어 발음 기호
+
+The phonetic interpreter is about to be implemented, but is expected to take a very long time. If the use of NLP is essential, it seems impossible to introduce it.
 
 The closest development sequence is:
 1. Support for English phonetic symbols
 2. Automatic mode switching based on track name
 3. Chinese phonetic symbols
-
-
 
 
